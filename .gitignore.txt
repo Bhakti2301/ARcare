@@ -1,0 +1,31 @@
+# Unity generated folders (don’t commit these)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Asset meta data
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# JetBrains Rider plugin folder
+.idea/
+
+# Visual Studio / VS Code files
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+*.suo
+*.user
+*.tmp
+*.booproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
